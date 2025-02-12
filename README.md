@@ -70,7 +70,7 @@ The system uses a **color-coded status** to track the condition of assets and lo
 - **Translation_list.py**: Contains translation data and functions.
 - **Data_operations.py**: Contains data operation classes and methods.
 - **Data_modeling.py**: Contains database models and schema definitions.
-- **There is many python files to handle the operations like add,return,edit, and UI files designed by PyQt**
+- **There is many python files to handle the operations in the windows like add,return,edit, and UI files designed by PyQt**
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
