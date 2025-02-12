@@ -1,0 +1,1 @@
+      self.AddAssetAllocationWindow.setWindowTitle("Add Asset Allocation")

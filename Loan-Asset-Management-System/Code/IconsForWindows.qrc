@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="AddIcon">
+    <file>add icon.jpg</file>
+  </qresource>
+  <qresource prefix="LoginPic">
+    <file>LoginPic.jpg</file>
+  </qresource>
+  <qresource prefix="DeleteIcon">
+    <file>DeleteIcon.png</file>
+  </qresource>
+  <qresource prefix="ReturnedIcon">
+    <file>ReturnedIcon.png</file>
+  </qresource>
+  <qresource prefix="AppIcon">
+    <file>AppIcon.png</file>
+  </qresource>
+  <qresource prefix="UpdateIcon">
+    <file>UpdateIcon.png</file>
+  </qresource>
+</RCC>
