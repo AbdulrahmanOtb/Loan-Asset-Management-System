@@ -16,15 +16,28 @@ The system uses a **color-coded status** to track the condition of assets and lo
 - 🟡 **Yellow** – Paid but late loan / Half-damaged asset  
 - ⚪ **White** – Unpaid & not late loan / Asset currently with the employee  
 
-## Screenshots
+## Screenshots of Application Pages : 
 
 ### Login Page
-![Login Page](https://github.com/Custody-App/Custody-App/blob/main/Project-C2-Team-5/UI%20Photos/Login_page.png)
+![Login Page]( https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/LoginPage.jpg )
   
-### Asset Management
-![Asset Management](https://github.com/Custody-App/Custody-App/blob/main/Project-C2-Team-5/UI%20Photos/Assets_record.png)
-### Loan Management
-![Loan Management](https://github.com/Custody-App/Custody-App/blob/main/Project-C2-Team-5/UI%20Photos/Loan_record.png)
+### Employees Management Page
+![Employees Management](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/EmployeesPage.png)
+### Asset Inventory Management
+![Asset_Inventory](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/AssetInventoryPage.png)
+
+### Departments Management
+![Departments](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/DepartmentPage.png)
+
+### Users Management
+![Users](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/UsersPage.png)
+
+### Financial Loan & Loan Payments Management
+![Financial](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/FinancialAndLoanPayments_Page.png)
+
+### Asset Allocation Management
+![Financial](https://github.com/AbdulrahmanOtb/Loan-Asset-Management-System/blob/main/Loan-Asset-Management-System/AssetAllocationPage.png)
+
 
 ## Getting Started
 
